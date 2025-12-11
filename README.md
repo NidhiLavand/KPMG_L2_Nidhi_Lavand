@@ -73,11 +73,17 @@ python -m streamlit run Task_1.py
 # 3. Run Task 2 (DPDPA Infographic)
 python Task_2_DPDPA_Infographic.py
 This will generate the infographic file: dpdpa_tiered_penalties.png
-Screenshots
-US Trade Dashboard
-<img width="940" height="561" src="https://github.com/user-attachments/assets/cfd441b8-fffe-4b20-b88d-e5645c90384f" />
-DPDPA Infographic – Python Output
-<img width="940" height="585" src="https://github.com/user-attachments/assets/18ee7e9f-81fc-4855-8b60-255bec2709bc" />
-DPDPA Infographic – Canva Version
-<img width="940" height="665" src="https://github.com/user-attachments/assets/52dca773-69b7-4abc-804b-3af93bfd3586" />
+
 ```
+## Screenshots
+US Trade Dashboard
+
+<img width="940" height="561" src="https://github.com/user-attachments/assets/cfd441b8-fffe-4b20-b88d-e5645c90384f" />
+
+DPDPA Infographic – Python Output
+
+<img width="940" height="585" src="https://github.com/user-attachments/assets/18ee7e9f-81fc-4855-8b60-255bec2709bc" />
+
+DPDPA Infographic – Canva Version
+
+<img width="940" height="665" src="https://github.com/user-attachments/assets/52dca773-69b7-4abc-804b-3af93bfd3586" />
