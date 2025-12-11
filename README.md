@@ -52,28 +52,27 @@ Output file automatically generated:
 
 dpdpa_tiered_penalties.png
 
-# How to Run the Project
-1️⃣ Install Dependencies
+## How to Run
+
+### Installation & Usage
+
+```bash
+# 1. Install Dependencies
 python -m pip install streamlit pandas plotly requests matplotlib
 
-2️⃣ Run Task 1 (US Trade Monitor)
+# 2. Run Task 1 (US Trade Monitor)
+# Navigate to your project folder
+cd path/to/your/project  # Example: cd C:\KPMG
 
-Navigate to your project folder:
-
-cd C:\KPMG   # or your folder path
-
-
-Run the Streamlit application:
-
+# Run the Streamlit application
 python -m streamlit run Task_1.py
 
+# The dashboard will automatically open in your browser at:
+# http://localhost:8501
 
-Your dashboard will open at:
-
-http://localhost:8501
-
-3️⃣ Run Task 2 (DPDPA Infographic)
+# 3. Run Task 2 (DPDPA Infographic)
 python Task_2_DPDPA_Infographic.py
+
 
 
 This will generate the infographic:
