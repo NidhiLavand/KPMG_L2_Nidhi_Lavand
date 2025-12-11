@@ -1,6 +1,6 @@
 # KPMG_L2_Nidhi_Lavand
 
-## US Trade Monitor & 🇮🇳 DPDPA Infographic
+## US Trade Monitor & IN DPDPA Infographic
 
 A two-part project combining interactive data visualization and a professionally designed infographic.
 
@@ -54,9 +54,6 @@ dpdpa_tiered_penalties.png
 
 # How to Run the Project
 1️⃣ Install Dependencies
-
-Run the following in Terminal / CMD:
-
 python -m pip install streamlit pandas plotly requests matplotlib
 
 2️⃣ Run Task 1 (US Trade Monitor)
@@ -66,7 +63,7 @@ Navigate to your project folder:
 cd C:\KPMG   # or your folder path
 
 
-Run the Streamlit app:
+Run the Streamlit application:
 
 python -m streamlit run Task_1.py
 
