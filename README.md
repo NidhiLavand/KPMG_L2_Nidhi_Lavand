@@ -7,12 +7,12 @@ A two-part project combining interactive data visualization and a designed infog
 
 This repository contains two tasks:
 
-Task 1: Interactive US Trade Monitor (Streamlit App)
+# Task 1: Interactive US Trade Monitor (Streamlit App)
 
 A live dashboard built using Streamlit, Plotly, and the US Census Bureau API.
 It visualizes:
 
-🇺🇸 US Trade Exports & Imports (live data)
+US Trade Exports & Imports (live data)
 
 📉 US Trade Balance (surplus/deficit)
 
@@ -24,7 +24,7 @@ It visualizes:
 
 This project provides a real-time view of how tariffs relate to trade deficits.
 
-Task 2: DPDPA India Infographic (Python Matplotlib)
+# Task 2: DPDPA India Infographic (Python Matplotlib)
 
 A high-quality infographic explaining quick takeaways from India’s
 Digital Personal Data Protection Act (DPDPA) 2023.
