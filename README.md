@@ -1,19 +1,20 @@
-KPMG_L2_Nidhi_Lavand
-US Trade Monitor & 🇮🇳 DPDPA Infographic
+# KPMG_L2_Nidhi_Lavand
+
+## US Trade Monitor & 🇮🇳 DPDPA Infographic
 
 A two-part project combining interactive data visualization and a professionally designed infographic.
 
-📌 Project Overview
+# Project Overview
 
 This repository contains two tasks:
 
-📊 Task 1: Interactive US Trade Monitor (Streamlit App)
+# Task 1: Interactive US Trade Monitor (Streamlit App)
 
 A live dashboard built using Streamlit, Plotly, and the US Census Bureau API.
 
 It visualizes:
 
-📦 US Trade Exports & Imports (live data)
+US Trade Exports & Imports (live data)
 
 📉 US Trade Balance (surplus/deficit)
 
@@ -25,7 +26,7 @@ It visualizes:
 
 This project provides a real-time view of how tariffs relate to trade deficits.
 
-🛡️ Task 2: DPDPA India Infographic (Python Matplotlib)
+# Task 2: DPDPA India Infographic (Python Matplotlib)
 
 A high-quality infographic explaining the key takeaways of India’s Digital Personal Data Protection Act (DPDPA) 2023.
 
@@ -51,7 +52,7 @@ Output file automatically generated:
 
 dpdpa_tiered_penalties.png
 
-🚀 How to Run the Project
+# How to Run the Project
 1️⃣ Install Dependencies
 
 Run the following in Terminal / CMD:
@@ -82,7 +83,7 @@ This will generate the infographic:
 
 dpdpa_tiered_penalties.png
 
-🖼️ Screenshots
+# Screenshots
 US Trade Dashboard
 <img width="940" height="561" src="https://github.com/user-attachments/assets/cfd441b8-fffe-4b20-b88d-e5645c90384f" />
 DPDPA Infographic – Python Output
